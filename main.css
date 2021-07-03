@@ -171,7 +171,7 @@ textarea {
 .overlay {
   max-width: 767px;
   height: 580px;
-  background-image: url('../images/about-us/tomato.jpg');
+  background-image: url('images\about-us\tomato.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -182,7 +182,7 @@ textarea {
   screen and (min-resolution: 192dpi),
   screen and (min-resolution: 2dppx) {
   .overlay {
-    background-image: url('../images/about-us/tomato.jpg');
+    background-image: url('images\about-us\tomato.jpg');
   }
 }
 
@@ -190,7 +190,7 @@ textarea {
   .overlay {
     max-width: 100%;
     height: 680px;
-    background-image: url('../images/about-us/tomato.jpg');
+    background-image: url('images\about-us\tomato.jpg');
   }
 }
 
@@ -199,7 +199,7 @@ textarea {
   screen and (min-width: 1200px) and (min-resolution: 192dpi),
   screen and (min-width: 1200px) and (min-resolution: 2dppx) {
   .overlay {
-    background-image: url('../images/about-us/tomato.jpg');
+    background-image: url('images\about-us\tomato.jpg');
   }
 }
 
@@ -207,7 +207,7 @@ textarea {
   .overlay {
     max-width: 1199px;
     height: 680px;
-    background-image: url('../images/about-us/tomato.jpg');
+    background-image: url('images\about-us\tomato.jpg');
   }
 }
 
@@ -216,7 +216,7 @@ textarea {
   screen and (min-width: 768px) and (max-width: 1199px) and (min-resolution: 192dpi),
   screen and (min-width: 768px) and (max-width: 1199px) and (min-resolution: 2dppx) {
   .overlay {
-    background-image: url('../images/about-us/tomato.jpg');
+    background-image: url('images\about-us\tomato.jpg');
   }
 }
 
@@ -710,13 +710,13 @@ textarea {
         from(rgba(17, 19, 25, 0.8)),
         to(rgba(17, 19, 25, 0.8))
       ),
-      url('../images/about-us/tomato.jpg');
+      url('images\about-us\tomato.jpg');
     background-image: linear-gradient(
         to right,
         rgba(17, 19, 25, 0.8),
         rgba(17, 19, 25, 0.8)
       ),
-      url('../images/about-us/tomato.jpg');
+      url('images\about-us\tomato.jpg');
   }
 }
 
@@ -732,13 +732,13 @@ textarea {
         from(rgba(17, 19, 25, 0.8)),
         to(rgba(17, 19, 25, 0.8))
       ),
-      url('../images/about-us/tomato.jpg');
+      url('images\about-us\tomato.jpg');
     background-image: linear-gradient(
         to right,
         rgba(17, 19, 25, 0.8),
         rgba(17, 19, 25, 0.8)
       ),
-      url('../images/about-us/tomato.jpg');
+      url('images\about-us\tomato.jpg');
   }
 }
 
@@ -751,13 +751,13 @@ textarea {
         from(rgba(17, 19, 25, 0.8)),
         to(rgba(17, 19, 25, 0.8))
       ),
-      url('../images/about-us/tomato.jpg');
+      url('images\about-us\tomato.jpg');
     background-image: linear-gradient(
         to right,
         rgba(17, 19, 25, 0.8),
         rgba(17, 19, 25, 0.8)
       ),
-      url('../images/about-us/tomato.jpg');
+      url('images\about-us\tomato.jpg');
   }
 }
 
@@ -773,13 +773,13 @@ textarea {
         from(rgba(17, 19, 25, 0.8)),
         to(rgba(17, 19, 25, 0.8))
       ),
-      url('../images/about-us/tomato.jpg');
+      url('images\about-us\tomato.jpg');
     background-image: linear-gradient(
         to right,
         rgba(17, 19, 25, 0.8),
         rgba(17, 19, 25, 0.8)
       ),
-      url('../images/about-us/tomato.jpg');
+      url('images\about-us\tomato.jpg');
   }
 }
 
@@ -792,13 +792,13 @@ textarea {
         from(rgba(17, 19, 25, 0.8)),
         to(rgba(17, 19, 25, 0.8))
       ),
-      url('../images/about-us/tomato.jpg');
+      url('images\about-us\tomato.jpg');
     background-image: linear-gradient(
         to right,
         rgba(17, 19, 25, 0.8),
         rgba(17, 19, 25, 0.8)
       ),
-      url('../images/about-us/tomato.jpg');
+      url('images\about-us\tomato.jpg');
   }
 }
 
@@ -814,13 +814,13 @@ textarea {
         from(rgba(17, 19, 25, 0.8)),
         to(rgba(17, 19, 25, 0.8))
       ),
-      url('../images/about-us/tomato.jpg');
+      url('images\about-us\tomato.jpg');
     background-image: linear-gradient(
         to right,
         rgba(17, 19, 25, 0.8),
         rgba(17, 19, 25, 0.8)
       ),
-      url('../images/about-us/tomato.jpg');
+      url('images\about-us\tomato.jpg');
   }
 }
 
@@ -1362,13 +1362,13 @@ textarea {
         from(rgba(17, 19, 25, 0.4)),
         to(rgba(17, 19, 25, 0.1))
       ),
-      url('../images/about-us/tomato.jpg');
+      url('images\about-us\tomato.jpg');
     background-image: linear-gradient(
         to right,
         rgba(17, 19, 25, 0.4),
         rgba(17, 19, 25, 0.1)
       ),
-      url('../images/about-us/tomato.jpg');
+      url('images\about-us\tomato.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -1388,13 +1388,13 @@ textarea {
         from(rgba(17, 19, 25, 0.4)),
         to(rgba(17, 19, 25, 0.1))
       ),
-      url('../images/overlay/overlay-footer-tablet@2x.jpg');
+      url('images\about-us\contact.jpg');
     background-image: linear-gradient(
         to right,
         rgba(17, 19, 25, 0.4),
         rgba(17, 19, 25, 0.1)
       ),
-      url('../images/overlay/overlay-footer-tablet@2x.jpg');
+      url('images\about-us\contact.jpg');
   }
 }
 
