@@ -93,14 +93,14 @@ textarea {
 }
 
 .container {
-  padding: 0 15px;
+  padding: 0 20px;
   margin: 0 auto;
 }
 
 @media screen and (max-width: 767px) {
   .container {
     max-width: 510px;
-    position: relative;
+    /* position: relative; */
   }
 }
 
@@ -433,7 +433,7 @@ textarea {
   display: -ms-inline-flexbox;
   display: inline-flex;
   font-weight: 600;
-  font-size: 12px;
+  font-size: 14px;
   line-height: 1.33;
   padding: 11px 37px;
   letter-spacing: 0.09em;
@@ -688,6 +688,9 @@ textarea {
     width: 330px;
   }
 } */
+a {
+  text-decoration: none; /* Отменяем подчеркивание у ссылки */
+}
 
 .second-wrapper .button {
   color: #555555;
@@ -1223,6 +1226,7 @@ textarea {
 
 .form-input .input {
   margin-bottom: 36px;
+  color: white;
 }
 
 .form-input .input::-webkit-input-placeholder {
@@ -1495,9 +1499,9 @@ textarea {
   transition: 250ms linear;
 }
 
-.address .address-link:last-child {
+/* .address .address-link:last-child {
   text-decoration: underline;
-}
+} */
 
 .address .address-link .icon-address {
   --color2: currentColor;
